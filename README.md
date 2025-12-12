@@ -1,15 +1,7 @@
 # Hi there, I'm Nishant Kumar Nayak 👋
 
 **Senior Full-Stack Developer | Computer Science Student | Building Scalable Web Solutions**
-
 📧 nayaknishant656@gmail.com | 📱 +91 6204616951 | 🎓 B.Tech in Computer Science @ Poornima University, Jaipur
----
-## 🚀 About Me
-
-I'm a passionate and results-driven full-stack developer specializing in building scalable and high-performance web applications using modern technologies. I thrive on solving complex, real-world problems through code, focusing on robust architecture and continuous skill enhancement.
----
-## 💻 Tech Stack
-### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
