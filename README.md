@@ -12,71 +12,55 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-**Languages:** JavaScript, PHP, SQL
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend:** React, HTML, CSS, JavaScript (JSX)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**Backend:** Node.js, Express.js
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Databases:** MongoDB, MySQL
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Technologies:** Git, REST APIs, Payment Gateway Integration
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects & Solutions
 
-### [Doctor - GenAI](link-to-repo) 🏥
-*Next.js Based AI Application | 2025*
+### Doctor - GenAI (2025)
+**Business Problem:** Medical professionals need to quickly analyze and extract insights from lengthy medical documents and reports.  
+**Solution:** AI-powered web application that automatically parses PDF medical documents and provides intelligent analysis using Gemini API, reducing document review time by enabling quick information extraction.
 
-An intelligent web application that leverages AI for medical document analysis.
+### Donor Management System (2024)
+**Business Problem:** Non-profit organizations struggle with tracking donor information and managing donations efficiently.  
+**Solution:** Centralized platform for secure donor registration, donation tracking, and integrated payment processing, streamlining the entire donation workflow.
 
-- 🔹 PDF upload and parsing functionality for medical documents
-- 🔹 Integration with Gemini API for intelligent document analysis
-- 🔹 Custom backend HTTP server for efficient request/response handling
-- 🔹 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, Gemini API
+### Nawnit Studio Prints (2021)
+**Business Problem:** Printing studio needed an online presence to handle customer orders, payments, and manage business operations.  
+**Solution:** Full-stack e-commerce platform with registration forms, payment gateway integration, and image upload functionality for seamless order management.
 
-### [Donor Management System](link-to-repo) 💝
-*Web App for Donation Tracking | 2024*
+### Backend RESTful API (2024)
+**Business Problem:** Learning modern backend development practices and API design patterns.  
+**Solution:** Comprehensive RESTful API with CRUD operations, pagination, sorting, searching, and file upload capabilities demonstrating industry-standard backend architecture.
 
-A comprehensive platform for managing donor registrations and tracking donations.
-
-- 🔹 Secure donor registration and data storage system
-- 🔹 Integrated payment gateway for seamless donation processing
-- 🔹 Real-time donor detail management and tracking
-- 🔹 **Tech Stack:** React, Node.js, Express.js, MongoDB
-
-### [Nawnit Studio Prints](link-to-repo) 🖼️
-*Full-Stack Web Platform | April 2021*
-
-A complete e-commerce solution for a printing studio business.
-
-- 🔹 Multiple registration forms with validation
-- 🔹 MySQL and PHP integration for robust data management
-- 🔹 Payment gateway integration and image upload functionality
-- 🔹 User feedback and suggestion system
-- 🔹 **Tech Stack:** React, Node.js, Express.js, MongoDB, MySQL, PHP
-
-### [Backend RESTful API](link-to-repo) 🔧
-*Learning-Oriented Project | 2024*
-
-A comprehensive backend API demonstrating modern web development practices.
-
-- 🔹 Full CRUD operations with RESTful architecture
-- 🔹 Advanced features: sorting, searching, pagination
-- 🔹 File upload and data insertion capabilities
-- 🔹 **Tech Stack:** Node.js, Express.js, MongoDB
-
-### [React Chatting Webapp](link-to-repo) 💬
-*Frontend Learning Project | 2023*
-
-A real-time chatting platform built with React.
-
-- 🔹 Modern UI built with React (JSX)
-- 🔹 Custom styling using raw CSS
-- 🔹 **Tech Stack:** React, HTML, CSS, JavaScript
+### React Chatting Webapp (2023)
+**Business Problem:** Understanding real-time communication interfaces and React component architecture.  
+**Solution:** Chat platform frontend built with React showcasing component-based design and CSS styling fundamentals.
 
 ---
 
