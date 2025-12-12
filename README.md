@@ -1,3 +1,6 @@
+# GITHUB README CODE
+
+```markdown
 # Hi there, I'm Nishant Kumar Nayak 👋
 
 **Full-Stack Developer | Computer Science Student | Building Web Solutions**
@@ -17,13 +20,15 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,10 +37,21 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Authentication & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Load_Balancing-326CE5?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ---
@@ -96,3 +112,21 @@ I love combining AI with web development to create innovative solutions that mak
 ---
 
 *Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!* 🚀
+```
+
+---
+
+## 📝 Instructions
+
+### For GitHub README:
+1. Copy the code above
+2. Create a repository with the same name as your GitHub username
+3. Create a file named `README.md` in that repository
+4. Paste the code and commit
+
+### Don't Forget to Replace:
+- `YOUR_GITHUB_USERNAME` - Your actual GitHub username (appears in stats section)
+- Social media links (LinkedIn, Twitter, Portfolio)
+
+### Tech Stack Icons:
+The badges are powered by shields.io and will automatically display the correct icons and colors for each technology!
