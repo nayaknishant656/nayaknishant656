@@ -17,29 +17,23 @@ I'm a passionate and results-driven full-stack developer specializing in buildin
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-### Authentication & Security
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-### Architecture & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
@@ -47,43 +41,7 @@ I'm a passionate and results-driven full-stack developer specializing in buildin
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Solution Architecture](https://img.shields.io/badge/Solution_Architecture-FF6C37?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-## 💡 Key Projects & Solutions
 
-### Doctor - GenAI (2025)
-* **Problem:** Medical professionals need to quickly analyze and extract insights from lengthy documents.
-* **Solution:** AI-powered web application using **Gemini API** to automatically parse PDF medical documents and provide intelligent analysis, significantly reducing document review time.
-
-### Donor Management System (2024)
-* **Problem:** Non-profit organizations struggle with tracking donor information and managing donations efficiently.
-* **Solution:** Centralized platform for secure donor registration, robust donation tracking, and integrated payment processing, streamlining the entire fundraising workflow.
-
-### Nawnit Studio Prints (2021)
-* **Problem:** Printing studio lacked an online presence for order placement, payments, and business management.
-* **Solution:** Full-stack e-commerce platform featuring secure registration, integrated payment gateway, and image upload functionality for seamless order management and operations.
-
-### Comprehensive RESTful API (2024)
-* **Goal:** Demonstrate mastery of modern backend development and industry-standard API design patterns.
-* **Solution:** Production-grade RESTful API implementing CRUD operations, with advanced features like pagination, sorting, searching, and secure file upload capabilities.
-
-### Real-time React Chat Webapp (2023)
-* **Goal:** Master real-time communication interfaces and React component architecture.
-* **Solution:** Frontend chat platform built with React, showcasing clean component-based design, state management, and responsive CSS styling fundamentals.
-  
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-## 🌱 Currently Developing Expertise In
-* Advanced React architectural patterns (e.g., Hooks, Context API optimization)
-* Containerization, Cloud deployment (AWS/Kubernetes), and streamlined DevOps pipelines
-* Integration of AI/ML models into enterprise web applications (e.g., Generative AI applications)
-* 
-## 📫 Let's Connect
-
-* 📧 Email: nayaknishant656@gmail.com
-* 💼 LinkedIn: [Your LinkedIn Profile]
-* 🐦 Twitter: [Your Twitter Handle]
-* 🌐 Portfolio: [Your Portfolio Website]
 
 ---
 
