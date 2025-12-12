@@ -37,12 +37,3 @@
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 
----
-
-## ⚡ Fun Fact
-
-I love combining AI with web development to create innovative solutions that make a real impact—from rapid document analysis to intelligent user experiences!
-
----
-
-*Feel free to explore my repositories. I am always open to discussing new projects, collaboration opportunities, or just chatting about cutting-edge tech!* 🚀
