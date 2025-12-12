@@ -1,6 +1,6 @@
 # Hi there, I'm Nishant Kumar Nayak 👋
 
-**Full-Stack Developer | Computer Science Student | Building Web Solutions**
+**Senior Full-Stack Developer | Computer Science Student | Building Scalable Web Solutions**
 
 📧 nayaknishant656@gmail.com | 📱 +91 6204616951 | 🎓 B.Tech in Computer Science @ Poornima University, Jaipur
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in building scalable web applications using modern technologies. I enjoy solving real-world problems through code and continuously learning new technologies to enhance my skill set.
+I'm a passionate and results-driven full-stack developer specializing in building scalable and high-performance web applications using modern technologies. I thrive on solving complex, real-world problems through code, focusing on robust architecture and continuous skill enhancement.
 
 ---
 
@@ -50,7 +50,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-### Tools & Technologies
+### Architecture & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
@@ -61,59 +61,58 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ---
 
-## 🔥 Projects & Solutions
+## 💡 Key Projects & Solutions
 
 ### Doctor - GenAI (2025)
-**Business Problem:** Medical professionals need to quickly analyze and extract insights from lengthy medical documents and reports.  
-**Solution:** AI-powered web application that automatically parses PDF medical documents and provides intelligent analysis using Gemini API, reducing document review time by enabling quick information extraction.
+* **Problem:** Medical professionals need to quickly analyze and extract insights from lengthy documents.
+* **Solution:** AI-powered web application using **Gemini API** to automatically parse PDF medical documents and provide intelligent analysis, significantly reducing document review time.
 
 ### Donor Management System (2024)
-**Business Problem:** Non-profit organizations struggle with tracking donor information and managing donations efficiently.  
-**Solution:** Centralized platform for secure donor registration, donation tracking, and integrated payment processing, streamlining the entire donation workflow.
+* **Problem:** Non-profit organizations struggle with tracking donor information and managing donations efficiently.
+* **Solution:** Centralized platform for secure donor registration, robust donation tracking, and integrated payment processing, streamlining the entire fundraising workflow.
 
 ### Nawnit Studio Prints (2021)
-**Business Problem:** Printing studio needed an online presence to handle customer orders, payments, and manage business operations.  
-**Solution:** Full-stack e-commerce platform with registration forms, payment gateway integration, and image upload functionality for seamless order management.
+* **Problem:** Printing studio lacked an online presence for order placement, payments, and business management.
+* **Solution:** Full-stack e-commerce platform featuring secure registration, integrated payment gateway, and image upload functionality for seamless order management and operations.
 
-### Backend RESTful API (2024)
-**Business Problem:** Learning modern backend development practices and API design patterns.  
-**Solution:** Comprehensive RESTful API with CRUD operations, pagination, sorting, searching, and file upload capabilities demonstrating industry-standard backend architecture.
+### Comprehensive RESTful API (2024)
+* **Goal:** Demonstrate mastery of modern backend development and industry-standard API design patterns.
+* **Solution:** Production-grade RESTful API implementing CRUD operations, with advanced features like pagination, sorting, searching, and secure file upload capabilities.
 
-### React Chatting Webapp (2023)
-**Business Problem:** Understanding real-time communication interfaces and React component architecture.  
-**Solution:** Chat platform frontend built with React showcasing component-based design and CSS styling fundamentals.
+### Real-time React Chat Webapp (2023)
+* **Goal:** Master real-time communication interfaces and React component architecture.
+* **Solution:** Frontend chat platform built with React, showcasing clean component-based design, state management, and responsive CSS styling fundamentals.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nayaknishant656&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaknishant656&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Developing Expertise In
 
-- Advanced React patterns and optimization
-- Cloud deployment and DevOps practices
-- AI/ML integration in web applications
+* Advanced React architectural patterns (e.g., Hooks, Context API optimization)
+* Containerization, Cloud deployment (AWS/Kubernetes), and streamlined DevOps pipelines
+* Integration of AI/ML models into enterprise web applications (e.g., Generative AI applications)
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: nayaknishant656@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
-- 🌐 Portfolio: [Your Portfolio Website]
+* 📧 Email: nayaknishant656@gmail.com
+* 💼 LinkedIn: [Your LinkedIn Profile]
+* 🐦 Twitter: [Your Twitter Handle]
+* 🌐 Portfolio: [Your Portfolio Website]
 
 ---
 
 ## ⚡ Fun Fact
 
-I love combining AI with web development to create innovative solutions that make a real impact!
+I love combining AI with web development to create innovative solutions that make a real impact—from rapid document analysis to intelligent user experiences!
 
 ---
 
-*Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!* 🚀
+*Feel free to explore my repositories. I am always open to discussing new projects, collaboration opportunities, or just chatting about cutting-edge tech!* 🚀
