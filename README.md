@@ -26,7 +26,16 @@ help your business grow faster with high reliability
   
 - develop and create solutions to problems using technology
   
-- help your business grow faster with high reliability  
+- help your business grow faster with high reliability
+
+
+- ## YouTube
+I also maintain YouTube playlists where I share content related to development, architecture, AI, and technology.  
+
+Sample playlists:
+- Full-Stack Development: https://www.youtube.com/playlist?list=PLCI3D3BAJHab-B0KqXujPMIAvTS0ihnqd  
+- React and Modern Frontend Engineering: https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR  
+- AI, LLMs, and Automation Concepts: https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBqr70CDo_6ylz9qdzZzU  
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
