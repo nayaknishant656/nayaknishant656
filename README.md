@@ -36,11 +36,11 @@
 ### Training & Video Tutorials 🧑‍🏫
 
 | Name | Description | Playlist Link | Nature |
-| :--- | :--- ,:--- | :--- | :--- |
-| **Solution Architecture** | Practical end-to-end workflows, system layering, and structural implementation for complex builds. | [View Playlist](https://www.youtube.com/playlist?list=PLCI3D3BAJHab-B0KqXujPMIAvTS0ihnqd) | Tutorial |
-| **AI & Automation** | Deep dive into solving business bottlenecks through automated agents and operational optimization. | [View Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBqr70CDo_6ylz9qdzZzU) | Training |
-| **Modern Frontend** | Mastering modular patterns, reusable logic, and performance tuning for high-traffic web applications. | [View Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR) | Tutorial |
-| **LLM Applications** | Advanced techniques for applying LLMs to enhance decision-making and reduce operational overhead. | [View Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkAI-LLM-SAMPLE-PLAYLIST) | Training |
+| :--- | :--- | :--- | :--- |
+| **Solution Architecture** | Practical end-to-end workflows and system layering. <br> **Focus:** Structural implementation for complex, scalable builds. | [View Playlist](https://www.youtube.com/playlist?list=PLCI3D3BAJHab-B0KqXujPMIAvTS0ihnqd) | Tutorial |
+| **AI & Automation** | Solving business bottlenecks through automated agents. <br> **Focus:** Operational optimization and workflow automation. | [View Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBqr70CDo_6ylz9qdzZzU) | Training |
+| **Modern Frontend** | Modular patterns and reusable engineering logic. <br> **Focus:** Performance tuning and high-traffic UI management. | [View Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR) | Tutorial |
+| **LLM Applications** | Techniques for applying LLMs to business logic. <br> **Focus:** Enhancing decision-making while reducing overhead. | [View Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkAI-LLM-SAMPLE-PLAYLIST) | Training |
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
