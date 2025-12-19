@@ -3,6 +3,17 @@
 **Senior Full-Stack Developer | Computer Science Student | Building Scalable Web Solutions**
 📧 nayaknishant656@gmail.com | 📱 +91 6204616951 | 🎓 B.Tech in Computer Science @ Poornima University, Jaipur
 
+i can contribute to :- 
+develop your very dynamic and complex frontend using React, Next.js, and TanStack with the latest tech frameworks, ensuring reliability, scalability, clean code, and flexibility
+
+build your robust backend architecture with optimization, lower cost, and future flexibility
+
+help you solve your business problems with AI using LLM fusion for cost-cutting, effectiveness, and impact
+
+develop and create solutions to problems using technology
+
+help your business grow faster with high reliability
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
