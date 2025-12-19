@@ -36,12 +36,12 @@
 
 ### Training & Video Tutorials 🧑‍🏫
 
-| Name | Description | Playlist Link | Nature |
+| Name | Description | Video Link | Nature |
 | :--- | :--- | :--- | :--- |
-| **Solution Architecture** | 1) Practical end-to-end workflows and [System Layering](https://www.youtube.com/playlist?list=PLCI3D3BAJHab-B0KqXujPMIAvTS0ihnqd). <br> 2) Structural implementation for complex, scalable builds. | [📺 YouTube](https://www.youtube.com/playlist?list=PLCI3D3BAJHab-B0KqXujPMIAvTS0ihnqd) | Tutorial |
-| **AI & Automation** | 1) Deep dive into solving business bottlenecks with [Automated Agents](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBqr70CDo_6ylz9qdzZzU). <br> 2) Focus on operational optimization and cost reduction. | [📺 YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBqr70CDo_6ylz9qdzZzU) | Training |
-| **Modern Frontend** | 1) Mastering modular patterns and reusable engineering logic. <br> 2) Performance tuning for high-traffic web applications. | [📺 YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR) | Tutorial |
-| **LLM Applications** | 1) Advanced techniques for applying LLMs to business logic. <br> 2) Enhancing decision-making through AI-driven workflows. | [📺 YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkAI-LLM-SAMPLE-PLAYLIST) | Training |
+| **Solution Architecture** | 1) [Practical E2E Workflows](https://www.youtube.com/watch?v=MHLTvbaeHVs) and structural implementation. <br> 2) Focus on building scalable system layering for complex apps. | [📺 Watch Video](https://www.youtube.com/watch?v=MHLTvbaeHVs) | Tutorial |
+| **AI & Automation** | 1) [Automated Agents](https://www.youtube.com/watch?v=R6u5EBWAssY) and business logic integration. <br> 2) Solving enterprise bottlenecks through operational optimization. | [📺 Watch Video](https://www.youtube.com/watch?v=R6u5EBWAssY) | Training |
+| **Modern Frontend** | 1) [Modular Patterns](https://www.youtube.com/watch?v=aTVFZ5trgAY) and reusable engineering logic. <br> 2) Performance tuning and high-traffic UI management in React/Next.js. | [📺 Watch Video](https://www.youtube.com/watch?v=aTVFZ5trgAY) | Tutorial |
+| **LLM Applications** | 1) [Cost-Cutting AI](https://www.youtube.com/watch?v=Dd_832z-kGg) techniques for production workflows. <br> 2) Enhancing decision-making using advanced LLM fusion strategies. | [📺 Watch Video](https://www.youtube.com/watch?v=Dd_832z-kGg) | Training |
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
