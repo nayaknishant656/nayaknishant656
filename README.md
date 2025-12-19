@@ -43,6 +43,14 @@
 | **Modern Frontend** | 1) [Modular Patterns](https://www.youtube.com/watch?v=aTVFZ5trgAY) and reusable engineering logic. <br> 2) Performance tuning and high-traffic UI management in React/Next.js. | [📺 Watch Video](https://www.youtube.com/watch?v=aTVFZ5trgAY) | Tutorial |
 | **LLM Applications** | 1) [Cost-Cutting AI](https://www.youtube.com/watch?v=Dd_832z-kGg) techniques for production workflows. <br> 2) Enhancing decision-making using advanced LLM fusion strategies. | [📺 Watch Video](https://www.youtube.com/watch?v=Dd_832z-kGg) | Training |
 
+
+| Title | Summary | Link |
+| :--- | :--- | :--- |
+| Introduction to React | A brief overview of components and props. | [Read](https://example.com/post-1) |
+| CSS Flexbox Guide | Understanding the basics of flexbox layout. | [Read](https://example.com/post-2) |
+| Git Workflow Tips | Standard practices for team collaboration. | [Read](https://example.com/post-3) |
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
