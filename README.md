@@ -17,27 +17,30 @@
 - help your business grow faster with high reliability
 
 
-## YouTube Categories and Playlists
+### Full-Stack & E2E Solutions 🚀
 
-### Solution Architecture
-> **Full-Stack Development**  
-> https://www.youtube.com/playlist?list=PLCI3D3BAJHab-B0KqXujPMIAvTS0ihnqd  
-> TLDR: practical end-to-end workflows, layering, and implementation structure.
+| Name | Description | Stacks | Nature | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Dynamic Frontends** | Scalable UIs with TanStack and modular patterns | React, Next.js, Tailwind | Web App | 👨‍💻 |
+| **Robust Backends** | High-performance architecture focused on optimization | Node.js, Express, Go, PHP | Backend | 👨‍💻 |
+| **Database Systems** | Optimized data storage and caching layers | MySQL, Postgre, Redis | Infra | 👨‍💻 |
+| **Cloud Infrastructure** | Orchestration for scalable deployment | Docker, Kubernetes, AWS | DevOps | 👨‍💻 |
 
-### Business Problem Solving
-> **AI, LLMs, and Automation Concepts**  
-> https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBqr70CDo_6ylz9qdzZzU  
-> TLDR: solving business bottlenecks through automation and operational optimization.
+### Artificial Intelligence & Automation 🤖
 
-### LLM Application
-> **AI, LLM Integrations (sample link)**  
-> https://www.youtube.com/playlist?list=PLWKjhJtqVAbkAI-LLM-SAMPLE-PLAYLIST  
-> TLDR: applying LLMs to build workflows, enhance decision-making, and reduce cost.
+| Name | Description | Stacks | Nature | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **LLM Fusion** | Cost-cutting AI integrations for business workflows | Gemini AI, Python, LLMs | Tooling | ⭐ |
+| **Operational Logic** | Solving business bottlenecks through automation | JavaScript, Rust, C++ | Scripts | 👨‍💻 |
 
-### Reliable, Scalable, Clean Code
-> **React and Modern Frontend Engineering**  
-> https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR  
-> TLDR: modular frontend patterns, scalability practices, reusable logic, performance tuning. 
+### Training & Video Tutorials 🧑‍🏫
+
+| Name | Description | Playlist Link | Nature |
+| :--- | :--- | :--- | :--- |
+| **Solution Architecture** | Practical end-to-end workflows and implementation | [View Playlist](https://www.youtube.com/playlist?list=PLCI3D3BAJHab-B0KqXujPMIAvTS0ihnqd) | Tutorial |
+| **AI & Automation** | Solving bottlenecks through AI and optimization | [View Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBqr70CDo_6ylz9qdzZzU) | Training |
+| **Modern Frontend** | Modular patterns and performance tuning | [View Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR) | Tutorial |
+| **LLM Applications** | Applying LLMs to workflows to reduce costs | [View Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkAI-LLM-SAMPLE-PLAYLIST) | Training |
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
