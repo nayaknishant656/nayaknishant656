@@ -17,8 +17,9 @@ develop and create solutions to problems using technology
 help your business grow faster with high reliability
 
 ## I Can Contribute To:
+
 - develop your very dynamic and complex frontend using React, Next.js, and TanStack with the latest tech frameworks, ensuring reliability, scalability, clean code, and flexibility
-- 
+
 - build your robust backend architecture with optimization, lower cost, and future flexibility
   
 - help you solve your business problems with AI using LLM fusion for cost-cutting, effectiveness, and impact
