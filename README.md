@@ -50,6 +50,35 @@
 | CSS Flexbox Guide | Understanding the basics of flexbox layout. | [Read](https://example.com/post-2) |
 | Git Workflow Tips | Standard practices for team collaboration. | [Read](https://example.com/post-3) |
 
+# Blog Posts
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Title</th>
+      <th align="left">TLDR</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Introduction to React</td>
+      <td>A short guide on components and state management.</td>
+      <td><a href="https://yourblog.com/react">Read</a></td>
+    </tr>
+    <tr>
+      <td>Mastering CSS Grid</td>
+      <td>Everything you need to know about responsive layouts.</td>
+      <td><a href="https://yourblog.com/css-grid">Read</a></td>
+    </tr>
+    <tr>
+      <td>Node.js Security</td>
+      <td>Top 5 tips to secure your backend applications.</td>
+      <td><a href="https://yourblog.com/node-security">Read</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
