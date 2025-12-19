@@ -39,7 +39,7 @@
 | Name | Description | Video Link | Nature |
 | :--- | :--- | :--- | :--- |
 | **Solution Architecture** | 1) [Practical E2E Workflows](https://www.youtube.com/watch?v=MHLTvbaeHVs) and structural implementation. <br> 2) Focus on building scalable system layering for complex apps. | [📺 Watch Video](https://www.youtube.com/watch?v=MHLTvbaeHVs) | Tutorial |
-| **AI & Automation** | 1) [Automated Agents](https://www.youtube.com/watch?v=R6u5EBWAssY) and business logic integration. <br> 2) Solving enterprise bottlenecks through operational optimization. | [📺 Watch Video](https://www.youtube.com/watch?v=R6u5EBWAssY) | Training |
+| **AI & Automation** | 1) [Automated Agents](https://www.youtube.com/watch?v=R6u5EBWAssY) and business logic integration. <br> 2) Solving enterprise bottlenecks through operational optimization.[Automated Agents](https://www.youtube.com/watch?v=R6u5EBWAssY) | [📺 Watch Video](https://www.youtube.com/watch?v=R6u5EBWAssY) | Training |
 | **Modern Frontend** | 1) [Modular Patterns](https://www.youtube.com/watch?v=aTVFZ5trgAY) and reusable engineering logic. <br> 2) Performance tuning and high-traffic UI management in React/Next.js. | [📺 Watch Video](https://www.youtube.com/watch?v=aTVFZ5trgAY) | Tutorial |
 | **LLM Applications** | 1) [Cost-Cutting AI](https://www.youtube.com/watch?v=Dd_832z-kGg) techniques for production workflows. <br> 2) Enhancing decision-making using advanced LLM fusion strategies. | [📺 Watch Video](https://www.youtube.com/watch?v=Dd_832z-kGg) | Training |
 
