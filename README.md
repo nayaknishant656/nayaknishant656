@@ -57,6 +57,11 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 ![Load Balancing](https://img.shields.io/badge/Load_Balancing-326CE5?style=for-the-badge&logo=nginx&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Solution Architecture](https://img.shields.io/badge/Solution_Architecture-FF6C37?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
+
+
+[![Agentic AI Agriculture #First draft]](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
+
+
 
 
