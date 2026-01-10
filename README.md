@@ -60,7 +60,7 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
 
 
-[![Agentic AI Agriculture #First draft]](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
+![Agentic AI Agriculture #First draft](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
 
 
 
