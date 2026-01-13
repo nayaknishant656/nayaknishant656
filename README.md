@@ -7,30 +7,6 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 [![Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
 [![Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/)](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
 
-
-## I Can Contribute To:
-
-- develop your very dynamic and complex frontend using React, Next.js, and TanStack with the latest tech frameworks, ensuring reliability, scalability, clean code, and flexibility
-
-- build your robust backend architecture with optimization, lower cost, and future flexibility
-  
-- help you solve your business problems with AI using LLM fusion for cost-cutting, effectiveness, and impact
-  
-- develop and create solutions to problems using technology
-  
-- help your business grow faster with high reliability
-
-
-### Full-Stack & E2E Solutions 🚀
-
-| Name | Description | Stacks | Nature | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **Dynamic Frontends** | Scalable UIs with TanStack and modular patterns | React, Next.js, Tailwind | Web App | 👨‍💻 |
-| **Robust Backends** | High-performance architecture focused on optimization | Node.js, Express, Go, PHP | Backend | 👨‍💻 |
-| **Database Systems** | Optimized data storage and caching layers | MySQL, Postgre, Redis | Infra | 👨‍💻 |
-| **Cloud Infrastructure** | Orchestration for scalable deployment | Docker, Kubernetes, AWS | DevOps | 👨‍💻 |
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
