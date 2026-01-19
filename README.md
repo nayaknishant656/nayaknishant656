@@ -4,11 +4,11 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 📧 nayaknishant656@gmail.com | 📱 +91 6204616951 | 🎓 B.Tech in Computer Science @ Poornima University, Jaipur
 
 
-[![RESUME](./nishant.pdf)]
+[!RESUME(./nishant.pdf)]
 
 
 [![Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
-[![Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/)](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
