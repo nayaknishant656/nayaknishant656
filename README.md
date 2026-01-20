@@ -44,7 +44,7 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 
 
 ![Agentic AI Agriculture #First draft](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
-[LLM-Based-Intelligent-Building-Design-System](https://github.com/nayaknishant656/LLM-Based-Intelligent-Building-Design-System)
+![LLM-Based-Intelligent-Building-Design-System](https://github.com/nayaknishant656/LLM-Based-Intelligent-Building-Design-System)
 
 
 
