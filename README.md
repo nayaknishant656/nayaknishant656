@@ -6,7 +6,7 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 
 [RESUME](./nishant.pdf)
 
-[Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)]
+[Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
