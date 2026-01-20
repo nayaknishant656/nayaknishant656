@@ -4,10 +4,10 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 📧 nayaknishant656@gmail.com | 📱 +91 6204616951 | 🎓 B.Tech in Computer Science @ Poornima University, Jaipur
 
 
-[![RESUME](./nishant.pdf)]
+[[RESUME](./nishant.pdf)]
 
 
-[![Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
+[[Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,6 +45,11 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 
 ![Agentic AI Agriculture #First draft](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
 ![LLM-Based-Intelligent-Building-Design-System](https://github.com/nayaknishant656/LLM-Based-Intelligent-Building-Design-System)
+![Agentic AI Agriculture #First draft](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
+
+<br/>
+
+[LLM-Based-Intelligent-Building-Design-System](https://github.com/nayaknishant656/LLM-Based-Intelligent-Building-Design-System)
 
 
 
