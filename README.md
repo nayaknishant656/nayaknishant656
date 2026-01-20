@@ -6,8 +6,7 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 
 [RESUME](./nishant.pdf)
 
-
-[Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
+[Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)]
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,11 +42,9 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
 
 
-
-[Agentic AI Agriculture #First draft](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
-
+# Research Paper (AI driven System Design Solution)
+[Agentic AI Agriculture](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
 <br/>
-
 [LLM-Based-Intelligent-Building-Design-System](https://github.com/nayaknishant656/LLM-Based-Intelligent-Building-Design-System)
 
 
