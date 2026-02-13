@@ -6,6 +6,22 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 [RESUME](./nishant.pdf)
 [Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
 
+
+#Follwing Projects which really have impact 
+
+
+docotor ai is blood and overall health anaylysis platform where it analysis the blood report of ther user and give feedback, advice and suggestion and valuable information about the health future and health diagnosis , it has multiple features like
+
+
+i) it has very intuitive and interactive dashboard and very user friendly UI
+
+ii) It has feature of booking appointment nearby doctor ,suggesting doctor according to your health issue
+
+iii) give suggestion and advice you to take measure action based in the analysis , advice suggestion about your diet plan and suggest your potential action based on the blood report
+
+
+
+
 ## 💻 Tech Stack
 
 ### Programming Languages
