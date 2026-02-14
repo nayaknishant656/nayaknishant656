@@ -7,8 +7,6 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 [Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
 
 
-#Follwing Projects which really have impact 
-
 
 ## 💻 Tech Stack
 
