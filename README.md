@@ -1,7 +1,7 @@
 # Hi there, I'm Nishant Nayak 👋
 AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solutions
 
-📧 nishantnayak094@gmail.com | 📱 +91 6204616951 | 🎓 B.Tech in Computer Science @ Poornima University, Jaipur
+📧 nishantnayak094@gmail.com
 
 [RESUME](./nishant.pdf)
 [Portfolio](https://master.d2xb57q2rdzxhs.amplifyapp.com/Body)
