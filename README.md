@@ -8,7 +8,7 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 
 Hi, this is Nishant. I have hands-on experience in building products from scratch and have developed many products that have business, social, and economic impact.
 
-
+I enjoy researching and finding things out
 
 ## 📄 Research Paper (AI driven System Design Solution)
 [Agentic AI Agriculture](https://github.com/nayaknishant656/AI-Agentic-Advanced-Agriculture-Ecosystem)
