@@ -17,3 +17,7 @@ I enjoy researching and finding things out
 [LLM-Based-Intelligent-Building-Design-System](https://github.com/nayaknishant656/LLM-Based-Intelligent-Building-Design-System)
 <br/>
 [Agentic-Bussiness_CRUD-System-Design](https://github.com/nayaknishant656/agentic-CRUD-bussiness-workflow/tree/main)
+<br/>
+[Agentic-HR-System-Design](https://github.com/nayaknishant656/HR-AI-SYSTEM-DESIGN-AGENTIC-SYSTEM)
+
+
