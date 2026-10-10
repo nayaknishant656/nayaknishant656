@@ -4,7 +4,7 @@ AI Full-Stack Developer | Computer Science Student | Building Scalable Web Solut
 📧 nishantnayak094@gmail.com
 
 [RESUME](./nishant.pdf)
-[Portfolio](https://nishant-portfolio-v3.vercel.app/Body)
+[Portfolio](https://portfolio-react-v6.vercel.app/Body)
 [Article](https://medium.com/@nishantnayak094)
 
 Hi, this is Nishant. I have hands-on experience in building products from scratch and have developed many products that have business, social, and economic impact.
